@@ -1,0 +1,75 @@
+body {
+
+    background-color:burlywood  ;
+}
+
+.nav > a{
+     
+    font-weight: bolder;
+    font-size: x-large;
+    text-decoration: none;
+    color: black;
+
+
+}
+
+#home , #blog , #gallery , #About {
+
+    background-color:greenyellow  ;
+    border: 1px solid black ;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+#one {
+
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    
+    
+}
+
+#two {
+    
+    padding-right: 10px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+#three {
+
+      padding-right: 10px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#four {
+
+    
+      padding-right: 10px;
+    float: left;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#five {
+
+    
+      padding-right: 10px;
+    float: left;
+    text-align: center;
+}
+
+#sixth{
+
+    
+      padding-right: 10px;
+    float: left;
+    text-align: center;
+}
